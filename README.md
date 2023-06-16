@@ -36,5 +36,3 @@ I look forward to connecting with you!
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
-Feel free to customize the information according to your preferences, adding or removing sections as needed.
