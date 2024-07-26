@@ -1767,7 +1767,7 @@ input[type=radio] + label:before {
   -webkit-transition: opacity 0.2s ease-in-out;
   -ms-transition: opacity 0.2s ease-in-out;
   transition: opacity 0.2s ease-in-out;
-  background: url("../img/bg.jpg");
+  background: url("../img/bg-dark.jpeg");
   border-radius: 0.35em;
   content: "";
   display: block;
@@ -1812,7 +1812,7 @@ input[type=radio] + label:before {
 }
 
 .image.thumb:hover:before {
-  background: url("../img/bg.jpg"), url("../img/bg.jpg");
+  background: url("../img/bg-dark.jpeg"), url("../img/bg-dark.jpeg");
   opacity: 1;
 }
 
@@ -2295,7 +2295,7 @@ input[type=button]:disabled,
   justify-content: space-between;
   background-color: #1f1815;
   background-attachment: scroll, scroll;
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/bg-dark.jpeg");
   background-position: top left, top left;
   background-repeat: repeat, no-repeat;
   background-size: auto, 150%;
@@ -2740,7 +2740,7 @@ body.is-touch .poptrox-popup .closer {
   #footer {
     background-attachment: scroll;
     background-color: #1f1815;
-    background-image: url("../img/bg.jpg");
+    background-image: url("../img/bg-dark.jpeg");
     background-position: top left, bottom center;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -2842,6 +2842,13 @@ body.is-touch .poptrox-popup .closer {
     margin-left: 0;
     padding-left: 0;
   }
+}
+.par-color {
+  color: #302F2F;
+}
+
+.h2-color {
+  color: #08294B;
 }
 
 /*# sourceMappingURL=style.css.map */
