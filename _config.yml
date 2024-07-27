@@ -10,6 +10,6 @@ avatar: ./assets/img/mypic.JPG
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
+description: An industry experienced software engineer having keen research enthusiasm particularly in Computer Vision and Deep Learning
 canonical: https://strata-academic.yyliu.net/
 remote_theme: yaoyao-liu/strata-academic
