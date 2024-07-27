@@ -80,10 +80,10 @@ Aside from that, I worked on developing administrative tools and BI reports.</p>
 <p class="par-color" style="margin-top: 0;  margin-bottom:12px; text-align: justify;">It is an Android app for medical alerts. You can upload a prescription and your medicine routine. The app will remind you to take medicines on time.</p>
 
 <h4 class="h2-color" style="margin : 0">Crop Land Classification</h4>
-<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">Computer Vision and Deep Learning project. I have utilised a deep single Magnificence model and trained it with cropland satellite imagery from USDA's CDL (Cropland Data Layer) and NAIP (National Agriculture Imagery from the USGS Earth Explorer of Kansas, U.S.A.). Training data set was prepared through Image Patch Extraction and Class Balancing. The model can classify 6 croplands from the region.</p>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">Computer Vision and Deep Learning project. I have utilised one layer conventional CNN network along with Ensemble Learning Approach, Advanced Neural Network with Residual and Inception-like Modules. I have trained the models with cropland satellite imagery from USDA's CDL (Cropland Data Layer) and NAIP (National Agriculture Imagery from the USGS Earth Explorer of Frenso, California U.S.A. 2018). Training data set was prepared through Image Patch Extraction and Class Balancing. Find project progress <strong><a href="./assets/pdf/Crop_classification.pdf"><i style="color:#e74d3c">here</i></a></strong></p>
 
 <h4 class="h2-color" style="margin : 0">Thesis</h4>
-<p class="par-color" style="margin-top: 0; text-align: justify;">Detection of Acute Lymphocyte Leukemia (ALL) AND Its Type By Image Processing and Machine Learning. I have used ADL dataset includes signle slide images lukemia cancer and normal patient.</p>
+<p class="par-color" style="margin-top: 0; text-align: justify;">Detection of Acute Lymphocyte Leukemia (ALL) AND Its Type By Image Processing and Machine Learning. I have used ADL dataset includes signle slide images lukemia cancer and normal patient. <strong><a href="./assets/pdf/Thesis_Fall_18.pdf"><i style="color:#e74d3c"> Learn More</i></a></strong></p>
 
 
 <h2 class="h2-color" style="margin-bottom:4px">Honours & Awards</h2>
