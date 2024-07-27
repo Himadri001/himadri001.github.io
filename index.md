@@ -69,15 +69,21 @@ Aside from that, I worked on developing administrative tools and BI reports.</p>
 
 
 <h4 class="h2-color" style="margin : 0">Drowsy Drivers</h4>
-<p class="par-color" style="margin-top: 0; margin-bottom:8px; text-align: justify;">A Computer Vision and Deep Learning based program which detect drowsy drivers while driving. The program uses openCV and Dlib's facial landmark detection algorithm to detect and segment eye region from a real-time video stream. The model can detect drowsy eyes by measuring eye aspect ratio and trigger an alarm if the eyes are kept closed for 5 seconds continously</p>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">A Computer Vision and Deep Learning based program which detect drowsy drivers while driving. The program uses openCV and Dlib's facial landmark detection algorithm to detect and segment eye region from a real-time video stream. The model can detect drowsy eyes by measuring eye aspect ratio and trigger an alarm if the eyes are kept closed for 5 seconds continously</p>
 
 
 <h4 class="h2-color" style="margin : 0">e-Library</h4>
-<p class="par-color" style="margin-top: 0; text-align: justify; margin-bottom:8px;">A Desktop app build with electron and client side database. It is a user friendly in-house library management system which includes book stock management, record keeping of books taken. It also includes an alert system to notify the user to return the books taken before due date. The app includes 2 factor authentication and role based access.</p>
+<p class="par-color" style="margin-top: 0; text-align: justify; margin-bottom:12px;">A Desktop app build with electron and client side database. It is a user friendly in-house library management system which includes book stock management, record keeping of books taken. It also includes an alert system to notify the user to return the books taken before due date. The app includes 2 factor authentication and role based access.</p>
 
 
 <h4 class="h2-color" style="margin : 0">MediAlert</h4>
-<p class="par-color" style="margin-top: 0; text-align: justify;">It is an Android app for medical alerts. You can upload a prescription and your medicine routine. The app will remind you to take medicines on time.</p>
+<p class="par-color" style="margin-top: 0;  margin-bottom:12px; text-align: justify;">It is an Android app for medical alerts. You can upload a prescription and your medicine routine. The app will remind you to take medicines on time.</p>
+
+<h4 class="h2-color" style="margin : 0">Crop Land Classification</h4>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">Computer Vision and Deep Learning project. I have utilised a deep single Magnificence model and trained it with cropland satellite imagery from USDA's CDL (Cropland Data Layer) and NAIP (National Agriculture Imagery from the USGS Earth Explorer of Kansas, U.S.A.). Training data set was prepared through Image Patch Extraction and Class Balancing. The model can classify 6 croplands from the region.</p>
+
+<h4 class="h2-color" style="margin : 0">Thesis</h4>
+<p class="par-color" style="margin-top: 0; text-align: justify;">Detection of Acute Lymphocyte Leukemia (ALL) AND Its Type By Image Processing and Machine Learning. I have used ADL dataset includes signle slide images lukemia cancer and normal patient.</p>
 
 
 <h2 class="h2-color" style="margin-bottom:4px">Honours & Awards</h2>
