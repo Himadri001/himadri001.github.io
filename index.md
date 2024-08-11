@@ -4,7 +4,11 @@ layout: homepage
 <h2 class="h2-color" style="margin-bottom:4px;"> About Me</h2>
 <p class="par-color" style="text-align: justify">I am a Computer Science graduate who used to be good at debating. I have completed my graduation from BRAC University, Bangladesh. From debating I first mastered logic building which later on laid the path to develop scalable and distributed solutions to address real-world problems. In my professional career, I have developed software solutions that provide transportation and logistics support for millions of users
 <br><br>
-Apart from contributing to the industry, I have always sought to engage in research projects, particularly in the domains of Computer Vision and Deep Learning.
+Apart from contributing to the industry, I have always sought to engage in research projects, particularly in the domains of Computer Vision and Deep Learning. I am currently working in MSiP (multi media singal image processing lab) supervised by Jia Uddin, PhD. My research area is Medical Image Processing and Deep Segmentation Methods
+
+<p class="par-color" style="text-align: justify">
+ <strong><a href="https://sites.google.com/view/drjiauddin/research-areas?authuser=0"><i style="color:#e74d3c">Research Group Website</i></a></strong></p>
+
  </p>
 
 <!-- <h2 class="h2-color" style="margin-bottom:4px"> Research Interests </h2> -->
@@ -18,11 +22,10 @@ Apart from contributing to the industry, I have always sought to engage in resea
 
 <h2 class="h2-color" style="margin-bottom:4px"> Current Research </h2>
 <h3 class="h2-color" style="margin-bottom:3px"> Deep Multi Magnification Network for Multi-Class Breast Cancer Tissue Segmentation</h3>
-<p class="par-color" style="text-align: justify">Currently, I am studying a Multi-Encoder Multi-Decoder Multi-Concatenation network which takes image patches of multi-magnification level as input and outputs the classification and segmentation of the tissue. Currently, the model can segment 6 classes of tissue subtypes. My objective is to retrain the network with publicly available datasets (CAMELYON16,17) and to include more class predictions to increase the accuracy of the pathological examination of breast cancer.
- <strong><a href="https://doi.org/10.1016/j.compmedimag.2021.101866"><i style="color:#e74d3c">Related Works</i></a></strong>
+<p class="par-color" style="text-align: justify">Currently, I am studying Multi-Encoder Multi-Decoder Multi-Concatenation network which takes image patches from  breast cancer whole side image at multi-magnification level as input and outputs the classification and segmentation of the tissue subtypes. Currently, the model can segment 6 classes of tissue subtypes. My objective is to retrain the network with publicly available datasets (CAMELYON16,17) and to include more class predictions to increase the accuracy of the pathological examination of breast cancer.</p>
 
-<br><br>
-
+<p class="par-color" style="text-align: justify">
+ <strong><a href="https://doi.org/10.1016/j.compmedimag.2021.101866"><i style="color:#e74d3c">Reference Research</i></a></strong></p>
 
 
 <h2 class="h2-color"  style="margin-bottom:8px">Professional Experience</h2>
@@ -41,10 +44,17 @@ Furthermore, I am working on developing an Exception Management service for V-SO
 Additionally, I was one of the core developers of the `Cashless Payment` project. I have developed the direct debit feature so that the users do not have to initiate the payment manually. The payment is deducted from the selected payment method after ending the ride automatically. To prevent unwanted cases I have added a retry mechanism for failed transactions. I have also contributed to the `Payout` project. In Obhai, drivers get their commission in real-time after completing the ride which has increased the trust and reliability of the platform. I developed the function to calculate the driver's balance and the amount to be disbursed through payout. It ensured the correctness of the transactions.</p>
 
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">
-During that time I was involved in building an ML-based fare engine which utilises the Obhai customer profile data and provides dynamic taxi fares based on the customer's historical journey with Obhai. The service was launched in the last quarter of 2022. The service eventually increased the number of daily rides by 13%.  <strong><a href="https://big-ball-477.notion.site/Real-Time-Fare-Prediction-Model-186a0571a31b4fd8993b049f04704356?pvs=4"><i style="color:#e74d3c">Learn More</i></a></strong></p>
+During that time I was involved in building an ML-based fare engine which utilises the Obhai customer profile data and provides dynamic taxi fares based on the customer's historical journey with Obhai. The service was launched in the last quarter of 2022. The service eventually increased the number of daily rides by 13%.  
+<p class="par-color" style="margin-bottom:8px; text-align: justify;">
+<strong><a href="https://big-ball-477.notion.site/Real-Time-Fare-Prediction-Model-186a0571a31b4fd8993b049f04704356?pvs=4"><i style="color:#e74d3c">Taxi Fare Predictor</i></a></strong></p>
 
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">
-In addition to my technical contributions, I led a backend team and regularly conducted sprint planning, code reviews, and internal technical troubleshooting. Aside from that, I took an active role in the hiring process and training the new joiners.</p> <strong><a href="http://www.obhai.com"><i style="color:#e74d3c">Company Website, </i></a></strong> <strong><a href="https://drive.google.com/file/d/16vC21IPxDQdZeD3h-70zP2Ezbx2d23h4/view?usp=drive_link"><i style="color:#e74d3c">App Demo</i></a></strong>
+In addition to my technical contributions, I led a backend team and regularly conducted sprint planning, code reviews, and internal technical troubleshooting. Aside from that, I took an active role in the hiring process and training the new joiners.</p> 
+
+<p class="par-color" style="margin-bottom:8px; text-align: justify;">
+<strong><a href="http://www.obhai.com"><i style="color:#e74d3c">Company Website  </i></a></strong> </p>
+<p class="par-color" style="margin-bottom:8px; text-align: justify;">
+<strong><a href="https://drive.google.com/file/d/16vC21IPxDQdZeD3h-70zP2Ezbx2d23h4/view?usp=drive_link"><i style="color:#e74d3c">App Demo</i></a></strong></p>
 
 
 
