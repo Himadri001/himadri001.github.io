@@ -84,7 +84,7 @@ Aside from that, I worked on developing administrative tools and BI reports.</p>
 <p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">A Desktop app built on Electron and client-side database. It is a user-friendly in-house library management system which includes book stock management, and record keeping of books taken. It also includes an alert system to notify the user to return the books before the due date. The app includes 2-factor authentication and role-based access. <strong><a href="https://github.com/Himadri001/libray-management-system"><i style="color:#e74d3c">Project Link</i></a></strong></p>
 
 
-<h4 class="h2-color" style="margin : 0">Stock Market Analysis and Forecastingn</h4>
+<h4 class="h2-color" style="margin : 0">Stock Market Analysis and Forecasting</h4>
 <p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">It is stock price analysis and forecasting project using Deep Learning (pytorch, gru). I have used the GRU model and Amazon, Google, Microsoft's timeseries stock data to perform forecasting of the companies stock values. <strong><a href="https://github.com/Himadri001/stock_forecasting"><i style="color:#e74d3c">Project Link</i></a></strong></p>
 
 <h4 class="h2-color" style="margin : 0">Thesis</h4>
