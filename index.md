@@ -2,9 +2,7 @@
 layout: homepage
 ---
 <h2 class="h2-color" style="margin-bottom:4px;"> About Me</h2>
-<p class="par-color" style="text-align: justify">I am currently pursuing my Master’s in Computer Science at Georgia Southern University, where I serve as a Research Assistant. My research focuses on developing AI-driven solutions in the fields of medical imaging and speech pathology. Presently, I’m working on:
-
-Breast Cancer Segmentation using deep learning architectures and Voice Disorder Classification and Detection using deep transformer-based methods for clinical voice analysis
+<p class="par-color" style="text-align: justify">I am actively involved in healthcare AI research as a Research Assistant at Georgia Southern University while pursuing my Master’s in Computer Science. My current project centers on developing advanced voice disorder analysis tools utilizing deep transformer-based models to assist speech pathologists in clinical voice assessment and diagnosis. Additionally, I have cultivated a keen interest in Knowledge Graphs and Generative AI, and am contributing to a research project focused on creating a company privacy policy analysis tool that combines knowledge graph centralization with large language models to enhance policy understanding and compliance.
 <br><br>
 I bring five years of industry experience from Bangladesh, where I developed scalable, distributed transportation and logistics platforms serving millions of users in real time. I hold a Bachelor’s degree in Computer Science from BRAC University, where my background in competitive debating sharpened my logical thinking—an ability that now fuels both my engineering and research pursuits.
 
@@ -19,20 +17,20 @@ I bring five years of industry experience from Bangladesh, where I developed sca
 </ul> -->
 
 
-<h2 class="h2-color" style="margin-bottom:4px"> Current Research </h2>
-<h3 class="h2-color" style="margin-bottom:3px"> Deep Multi Magnification Network for Multi-Class Breast Cancer Tissue Segmentation</h3>
-<p class="par-color" style="text-align: justify">Currently, I am studying Multi-Encoder Multi-Decoder Multi-Concatenation network which takes image patches from  breast cancer whole side image at multi-magnification level as input and outputs the classification and segmentation of the tissue subtypes. Currently, the model can segment 6 classes of tissue subtypes. My objective is to retrain the network with publicly available datasets (CAMELYON16,17) and to include more class predictions to increase the accuracy of the pathological examination of breast cancer.</p>
+<h2 class="h2-color" style="margin-bottom:4px"> Current Research Projects </h2>
+<h3 class="h2-color" style="margin-bottom:3px"> GraphRag Inference for privacy Policy analysis of S\&P Companies</h3>
+<p class="par-color" style="text-align: justify">Currently, I am working on a knowledge graph-based framework infused with LLM to provide any user with an inference to ask questions and receive a formatted answer related to company-specific privacy policies.</p>
 
 <h3 class="h2-color" style="margin-bottom:3px">Voice Disorder Detection and Classification Using Deep Transformer Based Models</h3>
-<p class="par-color" style="text-align: justify">I am exploring the use of transformer-based deep learning models for the early detection of speech and communication disorders. This research aims to improve diagnostic accuracy and intervention timelines by leveraging large-scale speech datasets and advanced sequence modeling techniques, contributing to more accessible and intelligent speech-language pathology tools.</p>
+<p class="par-color" style="text-align: justify">The research project aims to improve diagnostic accuracy and intervention timelines by leveraging large-scale speech datasets and advanced transformer models, contributing to more accessible and intelligent speech-language pathology tools.</p>
 
 
 <h2 class="h2-color"  style="margin-bottom:8px">Professional Experience</h2>
-<h3 class="h2-color" style="margin-bottom:8px">Engineering Manager MGH Logistics Ltd. MGH Group [Jan'23 to Present]</h3>
-<p class="par-color" style="margin-bottom:8px; text-align: justify;">Starting of the year 2024, I was appointed as the engineering manager of a logistics and order management platform( <strong><a href="https://drive.google.com/file/d/1nhzC6554nGKg1rjZufO3UVJvUGfPqoj9/view?usp=sharing"><i style="color:#e74d3c">Learn More</i></a></strong>), V-SOL (A Infor Nexus Product) for MGH freight forwarding wing. Currently, I am leading the `Shipment Tracking` project for sea and air freight. I have developed a standalone microservice which pulls ship and container tracking information from the carrier's system and posts it to V-SOL through Infor ION middleware. I have followed the Domain-Driven-Design with an API gateway to connect with the carriers. The API is consumed periodically via a background/cron job. Users of the platform can now view the location of their shipment on a world map with shipment information such as the date and time of departure from the origin port, transition port arrival-departure and destination arrival. </p>
+<h3 class="h2-color" style="margin-bottom:8px">Engineering Manager MGH Logistics Ltd. MGH Group [Jan'23 to Dec'23]</h3>
+<p class="par-color" style="margin-bottom:8px; text-align: justify;">Starting of the year 2024, I was appointed as the engineering manager of a logistics and order management platform( <strong><a href="https://drive.google.com/file/d/1nhzC6554nGKg1rjZufO3UVJvUGfPqoj9/view?usp=sharing"><i style="color:#e74d3c">Learn More</i></a></strong>), V-SOL (A Infor Nexus Product) for MGH freight forwarding wing. Currently, I led the `Shipment Tracking` project for sea and air freight. I built a standalone microservice which pulls ship and container tracking information from the carrier's system and posts it to V-SOL through Infor ION middleware. I have followed the Domain-Driven-Design with an API gateway to connect with the carriers. The API is consumed periodically via a background/cron job. Users of the platform can now view the location of their shipment on a world map with shipment information such as the date and time of departure from the origin port, transition port arrival-departure and destination arrival. </p>
 
 <p class="par-color" style="margin-bottom:22px; text-align: justify;">
-Furthermore, I am working on developing an Exception Management service for V-SOL. The service will notify the buyer and LSP users from MGH in real time if any exception is taking place during the total shipment process. The exceptions rules can be set by the buyer and easily changable through an admin portal. To notify we are using Event-Bus architecture and the information will be sent by organisation messaging channels such as Microsoft Teams.</p>
+Furthermore, I worked on developing an Exception Management service for MGH. The service notifies the buyer and LSP users from MGH in real time if any exception is taking place during the total shipment process. The exceptions rules can be set by the buyer and easily changable through an admin portal. To notify we are using Event-Bus architecture and the information will be sent by organisation messaging channels such as Microsoft Teams.</p>
 
 
 
@@ -40,7 +38,7 @@ Furthermore, I am working on developing an Exception Management service for V-SO
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">At Obhai, I contributed to the system scaling to serve one million customers daily. Moreover, improved the monolithic system by creating modular and reusable functions. Furthermore, I introduced the Master-Slave architecture for database servers which improved the traffic management of the platform.</p>
 
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">
-Additionally, I was one of the core developers of the `Cashless Payment` project. I have developed the direct debit feature so that the users do not have to initiate the payment manually. The payment is deducted from the selected payment method after ending the ride automatically. To prevent unwanted cases I have added a retry mechanism for failed transactions. I have also contributed to the `Payout` project. In Obhai, drivers get their commission in real-time after completing the ride which has increased the trust and reliability of the platform. I developed the function to calculate the driver's balance and the amount to be disbursed through payout. It ensured the correctness of the transactions.</p>
+Additionally, I was one of the core developers of the `Cashless Payment` project.Developed the direct debit feature so that the users do not have to initiate the payment manually. The payment is deducted from the selected payment method after ending the ride automatically. To prevent unwanted cases I have added a retry mechanism for failed transactions. I have also contributed to the `Payout` project. In Obhai, drivers get their commission in real-time after completing the ride which has increased the trust and reliability of the platform. I developed the function to calculate the driver's balance and the amount to be disbursed through payout. It ensured the correctness of the transactions.</p>
 
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">
 During that time I was involved in building an ML-based fare engine which utilises the Obhai customer profile data and provides dynamic taxi fares based on the customer's historical journey with Obhai. The service was launched in the last quarter of 2022. The service eventually increased the number of daily rides by 13%.  
@@ -76,22 +74,33 @@ Aside from that, I worked on developing administrative tools and BI reports.</p>
 <!-- Projects -->
 <h2 class="h2-color" style="margin-top:24px; margin-bottom:4px">Projects</h2>
 
-<h4 class="h2-color" style="margin : 0">Graph-Based Analysis of Data Relationships in Privacy Policies</h4>
-<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">This project investigates how major e-commerce platforms describe user data collection and processing in their privacy policies. Using outputs from the Polygrapher tool, we extracted COLLECT and SUBSUM relationships and semantically unified them using sentence embeddings. The processed relationships were then structured, merged, and visualized into a generalized graph across providers like Walmart, Publix, Target, Temu, and Instacart. The final knowledge graph reveals recurring data practices and helps compare privacy approaches across services.
+<h4 class="h2-color" style="margin : 0">GraphDPR: A Privacy Policy Analysis Framework Using Knowledge Graphs and Topic Modeling</h4>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">Developed a graph-based framework for analysing privacy policies of leading e-commerce companies in the USA, such as Walmart, Publix, Instacart, using Neo4j and sentence transformers to model personal data flow between entities. The system extracted and classified semantic relationships across data types, collection methods, and third-party sharing practices through NLP techniques and topic modeling. This project demonstrates the application of graph theory in legal document analysis and has been accepted for publication in ASONAM 2025.
 
 Key Technologies: NetworkX, Neo4j, Sentence Transformers, GraphML, Excel Automation
 Core Features: Data relationship extraction, semantic normalization, cross-provider pattern analysis
-Status: Submitted to ASONAM 2025</p>
+Status: Accepted to ASONAM 2025</p>
+
+<h4 class="h2-color" style="margin : 0">Combining Channel-Spatial Attention Gates with A Connected U-Net Framework for High-Precision Breast Cancer Segmentation</h4>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">Developed a high-precision breast cancer segmentation model for ultrasound imaging using a Connected U-Net architecture combined with channel-spatial attention gates and dual decoders. Applied data preprocessing, augmentation, and hybrid loss optimization to improve tumor delineation and minimize false positives. Achieved robust performance (94.82 validation accuracy, 89.43 precision) on the BUSI dataset. A fine-tuned model for real-time clinical applications</p>
+
+<h4 class="h2-color" style="margin : 0">Cashless Ride-Sharing Platform-Obhai</h4>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">
+Developed and deployed a cashless, end-to-end digital transaction-enabled ride-sharing service, integrating digital payment gateways (Visa, Master, Amex, Mobile wallets) and automated workflows for rider payments and refunds. Leveraged AWS cloud server infrastructure and load balancing solutions to support high user concurrency, while implementing REST API-based architecture for secure transaction processing. Ensured seamless financial operations and real-time payouts to riders, demonstrating expertise in digital payments, cloud technologies, and financial automation for large-scale mobility platforms</p>
+
+<h4 class="h2-color" style="margin : 0">Dynamic Taxi Fare Prediction</h4>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">
+Led the development and deployment of a machine learning-powered dynamic fare prediction system for a ride-sharing platform, utlizing a curated dataset of 10 million data points with geo-location, customer behavior, and payment mode features. Conducted comprehensive model training and comparison using algorithms such as Random Forest, Gradient Boosting, and Logistics Regression. The Random Forest Classifier achieved the highest precision (0.87) validated via 6-fold cross-validation. Successfully deployed the ML model using Amazon SageMaker, utilizing its scalable infrastructure to provide a real-time fare prediction service. This service currently supports over 100,000 daily users, and improved daily ride count by 13 percent back in 2023, demonstrating expertise in large-scale data processing, predictive modeling, cloud deployment, and AI-driven transportation solutions.
 
 <h4 class="h2-color" style="margin : 0">Drowsy Drivers</h4>
 <p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">A Computer Vision and Deep Learning based program which detects drowsy drivers while driving. The program uses OpenCV and Dlib's facial landmark detection algorithm to detect and segment eye regions from a real-time video stream. The model can detect drowsy eyes by measuring eye aspect ratio and trigger an alarm if the eyes are kept closed for 5 seconds continuously.</p>
 
 
 <h4 class="h2-color" style="margin : 0">Stock Market Analysis and Forecasting</h4>
-<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">It is stock price analysis and forecasting project using Deep Learning (pytorch, gru). I have used the GRU model and Amazon, Google, Microsoft's timeseries stock data to perform forecasting of the companies stock values. <strong><a href="https://github.com/Himadri001/stock_forecasting"><i style="color:#e74d3c">Project Link</i></a></strong></p>
+<p class="par-color" style="margin-top: 0; margin-bottom:12px; text-align: justify;">A stock price analysis and forecasting project using Deep Learning (pytorch, gru). Amazon, Google, Microsoft's timeseries stock data from 2017-2020 is used to perform forecasting of the companies stock values.
 
 <h4 class="h2-color" style="margin : 0">Thesis</h4>
-<p class="par-color" style="margin-top: 0; text-align: justify;">Detection of Acute Lymphocyte Leukemia (ALL) AND Its Type By Image Processing and Machine Learning. I have used ADL dataset includes signle slide images lukemia cancer and normal patient. <strong><a href="./assets/pdf/Thesis_Fall_18.pdf"><i style="color:#e74d3c"> Learn More</i></a></strong></p>
+<p class="par-color" style="margin-top: 0; text-align: justify;">Detection of Acute Lymphocyte Leukemia (ALL) AND Its Type By Image Processing and Machine Learning. I have used ADL dataset includes signle slide images lukemia cancer and normal patient.
 
 
 <h2 class="h2-color" style="margin-bottom:4px">Honours & Awards</h2>
