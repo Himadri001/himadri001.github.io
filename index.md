@@ -26,7 +26,7 @@ I bring five years of industry experience from Bangladesh, where I developed sca
 
 
 <h2 class="h2-color" style="margin-bottom:4px"> Publications </h2>
-<h3 class="h2-color" style="margin-bottom:3px"> GraphDPR: A Privacy Policy Analysis Framework Using Knowledge Graphs and Topic Modeling
+<h3 class="h2-color" style="margin-bottom:3px"> GraphDPR: A Privacy Policy Analysis Framework Using Knowledge Graphs and Topic Modeling: 
 Proceeding - 17th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2025)</h3>
 <p class="par-color" style="text-align: justify">Privacy policies are often complex and hard for users and auditors to interpret, especially in e-commerce. Motivated by the need for better transparency and scalable compliance, we introduced GraphDPR: a graph-based framework that uses transformer models, semantic knowledge graphs (Neo4j), and topic modeling (LDA) to extract and analyze privacy policy content across multiple companies. Our approach enables interpretable audits, reveals shared and unique patterns in data collection, and aligns practices with regulatory standards. Results show GraphDPR improves regulatory coverage and topic clarity compared to PolicyGPT and Poligraph, supporting more robust privacy policy assessment and compliance benchmarking</p>
 
