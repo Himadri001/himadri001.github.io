@@ -2,9 +2,17 @@
 layout: homepage
 ---
 <h2 class="h2-color" style="margin-bottom:4px;"> About Me</h2>
-<p class="par-color" style="text-align: justify">I am actively involved in healthcare AI research as a Research Assistant at Georgia Southern University while pursuing my Master’s in Computer Science. My current project centers on developing advanced voice disorder analysis tools utilizing deep transformer-based models to assist speech pathologists in clinical voice assessment and diagnosis. Additionally, I have cultivated a keen interest in Knowledge Graphs and Generative AI, and am contributing to a research project focused on creating a company privacy policy analysis tool that combines knowledge graph centralization with large language models to enhance policy understanding and compliance.
+<p class="par-color" style="text-align: justify">I am a Research Assistant at Georgia Southern University, currently pursuing a Master’s in Computer Science with a concentration in AI-driven healthcare systems and knowledge representation for security and privacy.
 <br><br>
+
+My research is positioned at the convergence of Healthcare AI, Knowledge Graphs, and Generative AI, where I explore how intelligent systems can bridge human understanding and machine reasoning. I am developing deep transformer-based models for clinical voice disorder analysis, aiming to empower speech pathologists with data-driven tools for precise diagnosis and longitudinal voice assessment.
+<br><br>
+
+In parallel, I contribute to GraphRagLLM, a large language model–augmented knowledge graph framework that integrates semantic graph mining with context-aware reasoning to improve the interpretability, traceability, and compliance analysis of corporate privacy and security policies
+<br><br>
+
 I bring five years of industry experience from Bangladesh, where I developed scalable, distributed transportation and logistics platforms serving millions of users in real time. I hold a Bachelor’s degree in Computer Science from BRAC University, where my background in competitive debating sharpened my logical thinking—an ability that now fuels both my engineering and research pursuits.
+<br><br>
 
  </p>
 
@@ -16,6 +24,11 @@ I bring five years of industry experience from Bangladesh, where I developed sca
   <li class="par-color">High Performance Computing</li>
 </ul> -->
 
+
+<h2 class="h2-color" style="margin-bottom:4px"> Publications </h2>
+<h3 class="h2-color" style="margin-bottom:3px"> GraphDPR: A Privacy Policy Analysis Framework Using Knowledge Graphs and Topic Modeling
+Proceeding - 17th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2025)</h3>
+<p class="par-color" style="text-align: justify">Privacy policies are often complex and hard for users and auditors to interpret, especially in e-commerce. Motivated by the need for better transparency and scalable compliance, we introduced GraphDPR: a graph-based framework that uses transformer models, semantic knowledge graphs (Neo4j), and topic modeling (LDA) to extract and analyze privacy policy content across multiple companies. Our approach enables interpretable audits, reveals shared and unique patterns in data collection, and aligns practices with regulatory standards. Results show GraphDPR improves regulatory coverage and topic clarity compared to PolicyGPT and Poligraph, supporting more robust privacy policy assessment and compliance benchmarking</p>
 
 <h2 class="h2-color" style="margin-bottom:4px"> Current Research Projects </h2>
 <h3 class="h2-color" style="margin-bottom:3px"> GraphRag Inference for privacy Policy analysis of S\&P Companies</h3>
